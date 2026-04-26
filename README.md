@@ -1,3 +1,18 @@
+## 📝 Challenge Statement Alignment: Hack-Nation 2026
+Fulcrum-AI was engineered to solve the core problem presented at **Hack-Nation 2026**: The "mRNA Gap."
+
+While most AI models focus on pure "Idea Generation," the Hack-Nation challenge demanded a solution that could **operationalize** science. We met this by:
+* **Grounding in Data:** Using the provided Sustainability and Power datasets to drive Phase 1 reasoning.
+* **Live Iteration:** Integrating the **Tavily Search API** for real-time experimental scoping.
+* **Operational Buffer:** Hard-coding a mandatory **30% Budget Contingency**, a key requirement for high-stakes R&D planning.
+
+Developed by: **Kritika Raj**
+User ID : 5bdc942b-2882-4c75-a236-7fe40987a11f
+Code: HN-5368
+
+Track: **Agentic AI & Data Engineering**
+Program: **VC Big Bets**
+
 # 🔬 Fulcrum-AI: The Operational Scientist
 
 **Fulcrum-AI** is an autonomous agentic platform designed to bridge the operational gap in scientific research. By automating Literature QC, Experimental Iteration, and Budgetary Logistics, we enable researchers to move from hypothesis to lab-execution in seconds rather than months.
