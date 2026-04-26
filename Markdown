@@ -1,0 +1,2 @@
+## 🏆 Hack-Nation Global AI Hackathon
+This project was developed for the **5th Hack-Nation Global AI Hackathon**, hosted in collaboration with the **MIT Sloan AI Club**. Built under the **Agentic AI & Data Engineering** track, Fulcrum-AI specifically addresses the "Operational Scientist" challenge.
