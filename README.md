@@ -24,4 +24,4 @@ The platform follows a strict three-phase autonomous workflow:
 ## 📦 Installation & Setup
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/fulcrum-ai-scientist.git](https://github.com/your-username/fulcrum-ai-scientist.git)
+   git clone [https://github.com/kritikaraj13/fulcrum-ai-scientist.git](https://github.com/kritikaraj13/fulcrum-ai-scientist.git)
